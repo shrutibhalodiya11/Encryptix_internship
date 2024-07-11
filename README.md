@@ -1,2 +1,7 @@
-# Encryptix_internship
-in this repository there are mainly three tasks are available.
+# Encryptix
+
+I Complate Task....
+
+For run the code run one by one task in terminal.....
+
+https://github.com/shrutibhalodiya11/Encryptix.git
